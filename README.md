@@ -13,7 +13,7 @@ Install slidesJS with npm
 
 or with cdn import
 ```HTML
-  <script src="https://cdn.jsdelivr.net/npm/@xmanu91/slidesjs@1.0.5/lib/v1/slidesjs.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@xmanu91/slidesjs@1/lib/v1/slidesjs.min.js"></script>
 ```
 
 ## Usage/Examples
