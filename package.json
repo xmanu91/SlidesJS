@@ -1,0 +1,16 @@
+{
+  "name": "@xmanu91/slidesjs",
+  "version": "1.0.0",
+  "description": "A powerfull slides system",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmanu91/SlidesJS.git"
+  },
+  "author": "xmanu91",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmanu91/SlidesJS/issues"
+  },
+  "homepage": "https://github.com/xmanu91/SlidesJS#readme"
+}

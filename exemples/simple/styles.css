@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family: sans-serif;
+}
+
+body{
+    overflow: hidden;
+}
+
+.app{
+    width: 100%;
+    height: 100vh;
+    background: rgb(34, 34, 34);
+}
+
+section{
+    width: 100%;
+    height: 100%;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+section:nth-child(1) {
+    background: red;
+}
+
+section:nth-child(2) {
+    background: blue;
+}
+
+section:nth-child(3) {
+    background: green;
+}
