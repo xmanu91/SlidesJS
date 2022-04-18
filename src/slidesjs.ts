@@ -1,4 +1,4 @@
-import './slidesJS.css';
+import './slidesjs.css';
 import EventEmitter from './EventEmitter';
 
 class SlidesJS {
