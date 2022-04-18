@@ -2,7 +2,7 @@
   "name": "@xmanu91/slidesjs",
   "version": "1.0.0",
   "description": "A powerfull slides system",
-  "main": "",
+  "main": "lib/1.0.0/slidesjs-1.0.0.min.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xmanu91/SlidesJS.git"
