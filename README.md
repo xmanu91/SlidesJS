@@ -40,6 +40,6 @@ In your js, create an instance of SlidesJS and put in parameters the selecotr of
 
 ```
 
-You can view the list of parameters in the documentation.
+You can view the list of parameters in the documentation (soon).
 
 And you can view exemples at [exemples](https://github.com/xmanu91/SlidesJS/tree/v1.0.2/exemples)
