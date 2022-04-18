@@ -13,7 +13,7 @@ Install slidesJS with npm
 
 or with cdn import
 ```HTML
-  <script src="https://cdn.jsdelivr.net/npm/@xmanu91/slidesjs@1.0.2/lib/1.0.0/slidesjs-1.0.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@xmanu91/slidesjs@1.0.4/lib/1.0.0/slidesjs-1.0.0.min.js"></script>
 ```
 
 ## Usage/Examples
@@ -42,4 +42,4 @@ In your js, create an instance of SlidesJS and put in parameters the selecotr of
 
 You can view the list of parameters in the documentation (soon).
 
-And you can view exemples at [exemples](https://github.com/xmanu91/SlidesJS/tree/v1.0.2/exemples)
+And you can view exemples at [exemples](https://github.com/xmanu91/SlidesJS/tree/v1.0.4/exemples)
