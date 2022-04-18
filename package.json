@@ -1,11 +1,13 @@
 {
   "name": "@xmanu91/slidesjs",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A powerfull slides system",
   "main": "./lib/v1/slidesjs.js",
   "browser": "./lib/v1/slidesjs.js",
   "types": "./lib/v1/slidejs.d.ts",
-  "files": ["lib/**/*"],
+  "files": [
+    "lib/**/*"
+  ],
   "scripts": {
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\" --no-error-on-unmatched-pattern",
