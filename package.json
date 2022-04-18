@@ -1,6 +1,6 @@
 {
   "name": "@xmanu91/slidesjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A powerfull slides system",
   "main": "./lib/1.0.0/slidesjs-1.0.0.min.js",
   "browser": "./lib/1.0.0/slidesjs-1.0.0.min.js",
