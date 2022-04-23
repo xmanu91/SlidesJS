@@ -1,7 +1,7 @@
 
 # SlidesJS
 
-SlidesJS is open source library for create slides (presentations) with HTML/CSS/JS.![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fxmanu91%2FSlidesJS%2F&color=blue)
+SlidesJS is open source library for create slides (presentations) with HTML/CSS/JS.
 
 ## Installation
 
